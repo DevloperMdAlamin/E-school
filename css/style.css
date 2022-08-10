@@ -1,0 +1,97 @@
+body{
+  background-color: #E5E5E5;
+}
+section{
+  margin-top: 80px;
+}
+
+.logo{
+  width: 200px;
+}
+.my-btn{
+  background-color: #21B573;
+  padding: 10px 28px;
+  border-radius: 10px;
+  color: white;
+  border: none;
+}
+.nav-item{
+  margin-left: 30px;
+ 
+}
+.my-btn a{
+  color: white;
+  padding: 0;
+}
+.hero-text {
+  margin: 20px;
+  display: block;
+
+}
+.hero-text h1 span{
+  color: #21B573;
+}
+.hero-text h5{
+  color: #FD511A;
+  margin-bottom: ;
+}
+.hero-img img{
+  width: 100%;
+}
+.about img{
+  width: 80px;
+  height: 80px;
+  margin-bottom: 20px;
+
+}
+.about .col-md-3{
+  height: 270px;
+  width: 270px;
+  margin-right: 10px;
+  padding-top: 50px;
+  
+}
+
+.about .col-md-3:hover{
+  background-color: #F8FFFB;
+  box-shadow: 2px 2px 5px rgba(128, 128, 128, 0.498);
+  border-radius: 10px;
+}
+.courses .card-img{
+  width: 100%;
+ 
+
+}
+.courses .col-md-4{
+  width: 350px;
+  background-color: #ffffff;
+  margin-right: 20px;
+  
+}
+.courses .card-icon, .courses .card-icon-2{
+  width: 20px;
+  height: 20px;
+}
+.testimonial img{
+width: 120px;
+height: 120px;
+display: inline-block;
+}
+.p{
+  width: 580px;
+ margin-left: 20px;
+}
+.footer li{
+  list-style: none;
+  color: #ffffff;
+}
+.footer p{
+  color: #ffffff;
+  padding: 20px;
+}
+.footer{
+  background-color: #282531;
+}
+.footer-con{
+ padding: 50px;
+}
